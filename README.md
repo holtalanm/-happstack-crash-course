@@ -1,0 +1,1 @@
+# happstack-crash-course
